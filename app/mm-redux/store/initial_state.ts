@@ -206,10 +206,6 @@ const state: GlobalState = {
                 status: 'not_started',
                 error: null,
             },
-            logout: {
-                status: 'not_started',
-                error: null,
-            },
             autocompleteUsers: {
                 status: 'not_started',
                 error: null,
